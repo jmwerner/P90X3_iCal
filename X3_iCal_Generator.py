@@ -34,6 +34,7 @@ order = [1,2,3,4,15,6,7,
 8,16,5,3,7,7]
 
 # My guess/ kind of following this website's suggestion:  http://tylerrobbinsfitness.com/blog/2014/2/8/when-should-you-add-ab-ripper-xx2x3-into-the-p90x3-schedule
+# Change to fit your workout needs
 ab_ripper = [0,0,1,0,1,0,0,
 0,0,1,0,1,0,0,
 0,0,1,0,1,0,0,
@@ -62,6 +63,24 @@ ab_ripper = [0,0,1,0,1,0,0,
 # 10,11,3,10,11,12,7,
 # 14,2,3,4,5,6,7,
 # 8,3,13,11,10,7]
+
+# This is the order for the "lean calendar"
+# order = [16,9,3,15,8,2,7, 
+# 16,9,3,15,8,2,7,
+# 16,9,3,15,8,2,7,
+# 6,7,16,5,2,3,7,
+# 17,9,3,12,6,15,7,
+# 17,9,3,12,6,15,7,
+# 17,9,3,12,6,15,7,
+# 6,7,16,5,2,3,7,
+# 13,12,11,3,17,10,7,
+# 12,13,17,5,13,15,7,
+# 13,12,11,3,17,10,7,
+# 12,13,17,5,13,15,7,
+# 8,16,5,3,7,7]
+
+
+
 
 # Names of workouts
 workouts = ["Total Synergistics", "Agility X", "X3 Yoga", 
