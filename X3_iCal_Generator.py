@@ -14,9 +14,9 @@ import os
 # Start Date - year, month, day, hour, minute, second
 # Coded right now to last one hour and be added to calendar
 #  at the same time every day until finished
-start_date = datetime(2015, 4, 11, 5, 30, 0)
+start_date = datetime(2015, 1, 11, 6, 0, 0)
 # Output directory
-directory = '/Users/jmwerner1123/Desktop'
+directory = '/your/directory/here'
 ######
 ######
 
